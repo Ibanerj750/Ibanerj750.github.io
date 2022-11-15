@@ -34,9 +34,3 @@ Duties: Writing homework, grading.
 STAT 301: Elementary Statistical Methods, (Fall 2018 quarter time along with STAT 512)
 Duties: Lab assistant, grading.
 
-
-[//]: # ({% include base_path %})
-
-[//]: # ({% for post in site.teaching reversed %})
-[//]: # (  {% include archive-single.html %})
-[//]: # ({% endfor %})

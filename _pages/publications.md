@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Current and Ongoing Projects"
+title: "My current and ongoing projects"
 permalink: /publications/
 author_profile: true
 ---

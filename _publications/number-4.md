@@ -1,15 +1,13 @@
+## Ongoing Work
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+1. Banerjee, I., Honnappa, H., &  Rao, V. A. (2023+). Histogram based optimal estimation for controlled Markov chains
+1. Banerjee, I., & Honorio, J. (2023+). Fair Combinatorial Logistic Regression: Sparsistency and Sample complexity.
+1. Banerjee, I., & Jaiswal, P. (2023+). A Variational Approach to Thompson Sampling for Offline Bandits
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Submitted/Published Work
+---
+1. Banerjee, I., Honnappa, H., &  Rao, V. A. (2022) Offline Estimation of Controlled Markov Chains: Minimax Nonparametric Estimators and Sample Efficiency [Arxiv](https://arxiv.org/abs/2211.07092)
+1. Banerjee, I., & Honorio, J. (2022). Meta Sparse Principle Component Analysis. [Arxiv](https://arxiv.org/abs/2208.08938)
+1. Banerjee, I., Rao, V. A., & Honnappa, H. (2021). PAC-Bayes Bounds on Variational Tempered Posteriors for Markov Models. Entropy, 23(3), 313. [Approximate Bayesian Inference, Entropy](https://www.mdpi.com/1099-4300/23/3/313)
+1. Banerjee, I., Mullick, S. S., & Das, S. (2018). On Convergence of the Class Membership Estimator in Fuzzy $ k $-Nearest Neighbor Classifier. IEEE Transactions on Fuzzy Systems, 27(6), 1226-1236. [Transactions on Fuzzy Sets and Systems](https://ieeexplore.ieee.org/abstract/document/8481381)
+---

@@ -24,7 +24,6 @@ My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4. Imon B
 
 Contact
 ------
----
 ibanerj at purdue dot edu
 
 ---

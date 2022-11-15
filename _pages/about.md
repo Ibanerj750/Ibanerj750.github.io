@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student in Statistics at Purdue university. [Here]() is my CV
+I am a fifth year PhD student in Statistics at Purdue university. [Here](https://raw.githubusercontent.com/Ibanerj750/Ibanerj750.github.io/master/files/Resume.pdf) is my CV.
 
 My advisors are [Vinayak Rao](https://varao.github.io/) and [Harsha Honnappa](https://engineering.purdue.edu/SSL/about).
 

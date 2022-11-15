@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
 
 I have been teaching extensively during my PhD.

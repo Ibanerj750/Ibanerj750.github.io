@@ -12,7 +12,7 @@ I have been teaching extensively during my PhD.
 
 _STAT 503:_ (Master's Level) Statistical Methods in Biology (Summer 2021)
 
-Duties: Instructing, creating class notes, writing exams and homework, creating rubrics, office hours, overseeing 1 TA.
+Duties: Instructing, creating class notes, writing exams and homework, creating rubrics, office hours, supervising 1 TA.
 
 ### Instructor
 ---

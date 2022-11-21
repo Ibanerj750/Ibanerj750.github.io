@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Imon Banerjee"
   avatar           : "profile.png"
-  bio              : "I am a PhD student in Statistics at Purdue University"
+  bio              : "Purdue University: PhD (2018---) "+
+                     "Indian Statistical Institute: B.S. & M.S. (2013---2018)"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

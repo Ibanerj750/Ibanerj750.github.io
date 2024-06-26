@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research assistant professor and the IEMS alumni fellow at McCormick School of Engineering at Northwestern University. [Here](https://raw.githubusercontent.com/Ibanerj750/Ibanerj750.github.io/master/files/Resume.pdf) is my CV. 
 
-Before joining Northwester, I was a PhD student under [Vinayak Rao](https://varao.github.io/) and [Harsha Honnappa](https://engineering.purdue.edu/SSL/about) at Purdue University. [Here](https://hammer.purdue.edu/articles/thesis/PROBABLY_APPROXIMATELY_CORRECT_BOUNDS_FOR_ESTIMATING_MARKOV_TRANSITION_KERNELS/24735312) is a link to my thesis.
+Before joining Northwestern, I was a PhD student under [Vinayak Rao](https://varao.github.io/) and [Harsha Honnappa](https://engineering.purdue.edu/SSL/about) at Purdue University. [Here](https://hammer.purdue.edu/articles/thesis/PROBABLY_APPROXIMATELY_CORRECT_BOUNDS_FOR_ESTIMATING_MARKOV_TRANSITION_KERNELS/24735312) is a link to my thesis.
 
 
 

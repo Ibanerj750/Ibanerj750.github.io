@@ -12,7 +12,7 @@ I have been teaching extensively.
 ### Northwestern University
 **Instructor**
 - IEMS 394: Industrial Engineering Client Project Challenge (Spring 2024)
-- IEMS 395/490: Applied Statistical Inference and Decision Making in Finance and Healthcare (Spring 2024)
+- IEMS 395/490: Applied Statistical Inference and Decision Making in Finance and Healthcare (Spring 2024) (Designed)
 - IEMS 404: Predictive Analysis-I (Fall 2024)
 
 ---

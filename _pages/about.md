@@ -26,7 +26,9 @@ Currently, I am reading about geometrical interpretations of statistics, pioneer
 
 **Prior Work:** The main thrust of my research during my PhD was in Markov chains, with both [Bayesian](https://www.mdpi.com/1099-4300/23/3/313) and [Frequentist](https://doi.org/10.1287/opre.2023.0046) flavors. In a trio of papers, one of which is published, and two of which are upcoming, I rigorously developed statistics on controlled Markov chains under both finite and continuous state spaces. I am currently collecting these three works into a monograph, which I plan to make available on my website. 
 
-I also recently worked on a non-Gaussian extension of the Kalman filter (see [this](https://arxiv.org/abs/2502.14053)) with Itai Gurvich, and worked with Jean Honorio on sparse principal component analysis (see [this](https://arxiv.org/abs/2211.07092)).
+I also recently worked on a non-Gaussian extension of the Kalman filter (see [this](https://arxiv.org/abs/2502.14053)) with Itai Gurvich where we showed the the Kalman filter (which is the best linear unbiased estimator) is actually **sub-optimal** in estimating the state when the noise is non-Gaussian. We then propose a modified esimator based on a prescription by [Eimear Goggin](https://ieeexplore.ieee.org/document/135648) which performs an order of magnitude better than the Kalman filter. 
+
+I also collaborated with Jean Honorio on sparse principal component analysis (see [this](https://arxiv.org/abs/2211.07092)).
 
 Contact
 ------

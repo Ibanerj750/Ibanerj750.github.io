@@ -7,7 +7,17 @@ author_profile: true
 
 I have been teaching extensively.
 
-## Teaching Experience
+## Teaching Summary
+
+| Category | Count |
+|---|---:|
+| Total Sections Instructed (Undergraduate) | 16 |
+| Total Sections Instructed (Graduate) | 5 |
+| Total Courses Designed | 1 |
+| Total Sections as TA | 4 |
+
+
+## Detailed Teaching Experience
 
 ### Northwestern University
 **Instructor**

@@ -19,6 +19,7 @@ I have been teaching extensively.
 
 ### Purdue University
 **Instructor**
+- STAT 301: Introduction to Statistical Methodologies (Spring 2026)
 - STAT 503: Statistical Methods in Biology (Summer 2021)
 - STAT 225: Introduction to Probability (Spring 2019 — Summer 2020)
 

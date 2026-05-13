@@ -16,18 +16,19 @@ author_profile: true
 {% endfor %}
 
 ## Ongoing Work
+1. **Banerjee, I.**, Dutta, A., Bhattacharyya, R. (2026) A Retractive Perspective on Variational Inference.
 1. Gupta, V., Gurvich, I., **Banerjee, I.** (2026+) Optimal Control Problem for Particle Filters with Non-Gaussian Noise.
-1. Lei, J., **Banerjee, I.**, & Mehrotra, S. (2026+). A PCA formulation for Multi Change Point Detection on Regenerative Processes (Preprint on request).
-1. So, T., **Banerjee, I.**, & Klabjan, D. (2026). Model Based Bootstrapping for the Transition Probabilities of Controlled Markov Chains (Preprint on request).
+1. Lei, J., **Banerjee, I.**, & Mehrotra, S. (2026). A PCA formulation for Multi Change Point Detection on Regenerative Processes (Preprint on request).
+1. So, T., **Banerjee, I.**, & Klabjan, D. (2026). Model Based Bootstrapping for the Transition Probabilities of Controlled Markov Chains [Preprint](https://arxiv.org/abs/2605.12410).
 2. So, T., **Banerjee, I.**, & Klabjan, D. (2026+). Central Limit Theorems for Transition Probabilities of Controlled Markov Chains. [Preprint](https://arxiv.org/abs/2508.01517)
 1. **Banerjee, I.**, Honnappa, H., & Rao, V. A. (2026). Adaptive Estimation of the Transition Densities of Controlled Markov Chains. [Preprint](https://arxiv.org/abs/2505.14458)
-1. **Banerjee, I.**, Gurvich, I. (2026). Goggin's Corrected Kalman Filter: Guarantees and Filtering Regimes. **Revision Submitted at IEEE Tran-IT** [Preprint](https://arxiv.org/abs/2502.14053)
+1. **Banerjee, I.**, Gurvich, I. (2026). Goggin's Corrected Kalman Filter: Guarantees and Filtering Regimes. **Major Revision at IEEE Transactions on Information Theory** [Preprint](https://arxiv.org/abs/2502.14053)
 
 
 ---
 
 ## Published Work
-1. Bhattacharyya, R., Chakraborty, S., **Banerjee, I.**. Adaptive Model Selection in Offline Contextual MDP's without Stationarity. **Accepted at ACM Transactions of Machine Learning Research, 2026**
+1. Bhattacharyya, R., Chakraborty, S., **Banerjee, I.**. Adaptive Model Selection in Offline Contextual MDP's without Stationarity. *Transactions of Machine Learning Research, 2026* [link](https://openreview.net/forum?id=FGBZ4q1HPZ)
 1. **Banerjee, I.**, & Honorio, J. Meta Sparse Principal Component Analysis. *AISTATS, 2026*. [link](https://openreview.net/attachment?id=ywzOo5YuF2&name=pdf)
 1. **Banerjee, I.**, Lei, J., & Mehrotra, S. Nonparametric Multi Change Point Detection for Markov Chains via Adaptive Clustering. *AISTATS, 2026* [link](https://openreview.net/attachment?id=LLRXG0wlJ8&name=pdf).
 1. **Banerjee, I.**, Chakraborty, S. CLT and Edgeworth Expansion for m-out-of-n Bootstrap Estimators of The Studentized Median. *NeurIPS, 2025*. [link](https://arxiv.org/abs/2505.11725)

@@ -35,5 +35,5 @@ author_profile: true
 ### Reviewing
 ---
 
-1. Approximate Bayesian Inference, Entropy
-1. AISTATS (2022), ICLR, AISTATS, ICML (2023)
+1. Entropy, Operations Research Letters, Stochastic Systems
+1. AISTATS (2022), ICLR, AISTATS, ICML (2023), NeurIPS (2026)

@@ -20,7 +20,7 @@ author_profile: true
 1. Gupta, V., Gurvich, I., **Banerjee, I.** (2026+) Optimal Control Problem for Particle Filters with Non-Gaussian Noise.
 1. Lei, J., **Banerjee, I.**, & Mehrotra, S. (2026). A PCA formulation for Multi Change Point Detection on Regenerative Processes (Preprint on request).
 1. So, T., **Banerjee, I.**, & Klabjan, D. (2026). Model Based Bootstrapping for the Transition Probabilities of Controlled Markov Chains [Preprint](https://arxiv.org/abs/2605.12410).
-2. So, T., **Banerjee, I.**, & Klabjan, D. (2026+). Central Limit Theorems for Transition Probabilities of Controlled Markov Chains. [Preprint](https://arxiv.org/abs/2508.01517)
+2. So, T., **Banerjee, I.**, & Klabjan, D. (2026). Central Limit Theorems for Transition Probabilities of Controlled Markov Chains. [Preprint](https://arxiv.org/abs/2508.01517)
 1. **Banerjee, I.**, Honnappa, H., & Rao, V. A. (2026). Adaptive Estimation of the Transition Densities of Controlled Markov Chains. [Preprint](https://arxiv.org/abs/2505.14458)
 1. **Banerjee, I.**, Gurvich, I. (2026). Goggin's Corrected Kalman Filter: Guarantees and Filtering Regimes. **Major Revision at IEEE Transactions on Information Theory** [Preprint](https://arxiv.org/abs/2502.14053)
 

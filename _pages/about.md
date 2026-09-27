@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor and the IEMS alumni fellow at McCormick School of Engineering at Northwestern University. [Here](https://raw.githubusercontent.com/Ibanerj750/Ibanerj750.github.io/master/files/Resume.pdf) is my CV. 
-
-(I am temporarily visiting Purude University as a visiting assistant professor)
+I am a Postdoctoral Research Staff at UChicago Booth School of Business working under Prof. [Bahar Taşkesen](https://www.bahartaskesen.com/) on intersections of Variational Inference and Optimal Transport. [Here](https://raw.githubusercontent.com/Ibanerj750/Ibanerj750.github.io/master/files/Resume.pdf) is my CV. 
 
 Contact
 ------
@@ -22,11 +20,21 @@ I love learning about new topics, and find research extremely fun. Before joinin
 
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3. Imon Banerjee ---> Diego Klabjan ---> Criag A. Tovey ---> Paul Erdős.
 
+**Fall 2026:** Fall began with two acceptances at NeurIPS and a new position at Booth. One of them is on bootstrapping a controlled Markov chain [paper](https://arxiv.org/abs/2605.12410) under non-stationary policies. Somewhat remarkably, we discovered that the transitions can still be bootstrapped, even with non-stationarity. The second one proposes a robust testing method for stationary Markov decision processes. 
+
+Perhaps more excitingly, I have finally understood enough geometry such that I could work on a small project!!! This heavily relies upon previous work on reconstructing manifolds from noisy samples by Vincent Divol (also see the works of Charles Fefferman). Our project lies more on the sampling side, but is really about approximating lower dimensional densities by higher dimensional reconstructions. Real excited!! Please see our [paper](https://arxiv.org/abs/2609.14837) if you want.
+
 **Summer 2026:** Summer started well with our [paper](https://openreview.net/forum?id=FGBZ4q1HPZ) being <strong>accepted</strong> in TMLR. This is the second work that I did on adaptive estimator selection via hellinger balls, and I am slowly starting to understand the techniques. 
 
 Exciting stuff!! I have finally made a dent into understanding geometry, mostly after going through the excellent lecture notes and videos of [Prof. Nicholas Boumal](https://www.nicolasboumal.net/book/?list=smallstiefel01,rankrmatrices01,productmanifold01,cross01,DiffMatInv01#lectures). It had been a longstanding wish of mine to learn more geometry, and I finally seem to be making progress. It is amusing to think that I started from not understandign what vector fields are. Over summer I aim to understand more about Wasserstein and Fisher-Rao geometries on the space of densities, and especially gradient flows, which are extremely important in problems involving optimisation like variational inference. But I have not given up on Markov chains yet, and more news on Markov chains shall be forthcoming at the end of summer.
 
-**Spring 2026:** The new year started well with two acceptances in AISTATs. One of them was "Meta Sparse Principal Component Analysis" (We pushed it for a really long time!) and the other was "Nonparametric Multi Change Point Detection for Markov Chains via Adaptive Clustering" which we had also submitted. I also worked with Ramkrishna Samanta and Sayak Chakraborty to submit a paper on the characterisation of rare events in stationary MDP's and some downstream applications. This should wrap up all conference submissions for 2025-2026. In future, I hope to work on some more statistical topics by going back to some of my roots in variational inference. I also realised that Fuk-Naegev Inequalities for the empirical suprema of Markov chains are not available!!! (I am happy to describe this more if you reach out to me.)
+<details>
+  <summary>Spring 2026</summary>
+  <p>
+    <strong>Spring 2026:</strong>
+    The new year started well with two acceptances in AISTATs. One of them was "Meta Sparse Principal Component Analysis" (We pushed it for a really long time!) and the other was "Nonparametric Multi Change Point Detection for Markov Chains via Adaptive Clustering" which we had also submitted. I also worked with Ramkrishna Samanta and Sayak Chakraborty to submit a paper on the characterisation of rare events in stationary MDP's and some downstream applications. This should wrap up all conference submissions for 2025-2026. In future, I hope to work on some more statistical topics by going back to some of my roots in variational inference. I also realised that Fuk-Naegev Inequalities for the empirical suprema of Markov chains are not available!!! (I am happy to describe this more if you reach out to me.)
+  </p>
+</details>
 
 <details>
   <summary>Fall 2025</summary>

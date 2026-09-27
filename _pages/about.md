@@ -20,7 +20,7 @@ I love learning about new topics, and find research extremely fun. Before joinin
 
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3. Imon Banerjee ---> Diego Klabjan ---> Criag A. Tovey ---> Paul Erdős.
 
-**Fall 2026:** Fall began with two acceptances at NeurIPS and a new position at Booth. One of the papers is on bootstrapping a controlled Markov chain [paper](https://arxiv.org/abs/2605.12410) under non-stationary policies. Somewhat remarkably, we discovered that the transitions can still be bootstrapped, even with non-stationarity. The second one proposes a robust testing method for stationary Markov decision processes. This continues my collaborations with Sayak Chakrabarty.
+**Fall 2026:** Fall began with two acceptances at NeurIPS and a new position at Booth. One of the papers is on bootstrapping a controlled Markov chain [paper](https://arxiv.org/abs/2605.12410) under non-stationary policies. Somewhat remarkably, we discovered that the transitions can still be bootstrapped, even with non-stationarity. The second one proposes a robust testing method for stationary Markov decision processes. A big thanks to my collaborators, and especially Sayak Chakrabarty for giving me a lovely work environment.
 
 Perhaps more excitingly, I have finally understood enough geometry such that I could work on a small project!!! This heavily relies upon previous work on reconstructing manifolds from noisy samples by Vincent Divol (also see the works of Charles Fefferman). Our project lies more on the sampling side, but is really about approximating lower dimensional densities by higher dimensional reconstructions. Real excited!! Please see our [paper](https://arxiv.org/abs/2609.14837) if you want.
 

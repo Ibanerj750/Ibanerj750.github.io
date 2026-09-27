@@ -12,8 +12,10 @@ author_profile: true
 ### Past Students
 ---
 
+1. [Jiaqi Lei](https://www.linkedin.com/in/jiaqi-lei-7785481a0/), PhD, Co-advised with [Sanjay Mehrotra](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mehrotra-sanjay.html). First position: Lenovo
 1. [Ziwei Su](https://www.linkedin.com/in/ziwei-su-502a58201/), PhD, Co-advised with [Diego Klabjan](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/klabjan-diego.html). First position: Amazon
-1. [Kayla Terrelonge](https://www.linkedin.com/in/kayla-terrelonge/), BSc. First Position: PNC 
+1. Yanis Zaim, BSc. First position: MSc. at Columbia IEOR
+1. [Kayla Terrelonge](https://www.linkedin.com/in/kayla-terrelonge/), BSc. First position: PNC 
 
 ### Awards
 ---

@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "My current and ongoing projects"

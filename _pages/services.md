@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Mentorship, Services, and Awards"

@@ -39,3 +39,76 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Custom dark theme */
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+.masthead,
+.greedy-nav {
+  background-color: #121212;
+  border-color: #333333;
+}
+
+.page__footer {
+  background-color: #1a1a1a;
+  color: #a0a8b3;
+  border-color: #333333;
+}
+
+.greedy-nav .hidden-links,
+.author__urls,
+.toc {
+  background-color: #1e1e1e;
+  border-color: #333333;
+}
+
+.greedy-nav .hidden-links::after,
+.author__urls::after {
+  border-bottom-color: #1e1e1e;
+}
+
+.greedy-nav .hidden-links a:hover,
+.toc__menu a:hover {
+  background-color: #303030;
+  color: #ffffff;
+}
+
+.author__urls a,
+.author__name,
+.author__bio,
+.sidebar,
+.archive__item-title {
+  color: #e0e0e0;
+}
+
+.author__avatar img {
+  border-color: #444444;
+}
+
+.author__urls .fa,
+.author__urls .fas,
+.author__urls .fab {
+  color: #b0b8c4;
+}
+
+input,
+textarea,
+select {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  border-color: #444444;
+}
+
+blockquote {
+  color: #b0b8c4;
+  border-left-color: #82b4ff;
+}
